@@ -1,5 +1,6 @@
-The PIRCHE Automated HLA Upload Tool is an Excel-based utility that streamlines the transfer of HLA typing data from the laboratory information system (e.g. HistoTrac) into the PIRCHE platform for immunological risk assessment and epitope-based matching.
+The PIRCHE Automated HLA Upload Tool is an Excel-based utility that streamlines the transfer of HLA typing data from the laboratory information system (e.g., HistoTrac) to the PIRCHE platform for immunological risk assessment and epitope-based matching.
 
+Purpose and Rationale:
 Manually transferring HLA results into PIRCHE can be time-consuming, error-prone, and inconsistent across personnel. The automated tool addresses these challenges by:
 Parsing and transforming LIS-exported HLA typings into a format compliant with PIRCHE requirements.
 Reducing manual data manipulation, thereby improving both efficiency and data integrity.
